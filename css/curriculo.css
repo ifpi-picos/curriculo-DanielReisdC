@@ -1,0 +1,21 @@
+h1,h2,h3{
+    color:blue;
+}
+body{
+    background-color:black;
+    text-align: center;
+    color:white;
+}
+
+ul{
+    list-style: none;
+}
+img{
+    border-radius: 100%;
+    width: 50%;
+}
+
+div{
+    display: inline-block;
+    width: 50%;
+}
